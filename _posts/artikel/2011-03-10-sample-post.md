@@ -2,7 +2,7 @@
 layout: post
 title: Sample Post
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2016-06-01T14:17:25-04:00
+modified: 2016-06-01T14:17:27-04:00
 categories: artikel
 tags: [sample-post]
 image:
