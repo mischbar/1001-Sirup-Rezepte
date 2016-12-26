@@ -20,6 +20,13 @@ Wer in die süsse Welt des Sirups eintauchen will, startet am besten mit einem Z
 
 ## Ausrüstung
 
+Es braucht nicht viel, doch die nachfolgenden Hilfsmittel sollten zur Hand sein.
+
+* Pfanne
+* Waage oder Volumenmass
+* Trichter
+* Verschliessbare Flaschen, zum Beispiel Bügelflaschen
+
 
 ## Zutaten/Grundrezept
 
@@ -40,8 +47,6 @@ Wasser mit dem Zucker in eine Pfanne geben, aufkochen und anschliessend bei schw
 
 * Die Zuckerlösung nicht zu lange köcheln lassen. Durch Verdampung des Wassers wird der Sirup sonst zu dick.
 * Flaschen von aussen nach Gebrauch, zum Beispiel mit einem feuchten Lappen, reinigen.
-
----## Variationen
 
 
 Quelle: <a href="https://www.mischbar.ch/magazin/zuckersirup-fur-cocktails-selber-herstellen/">Zuckersirup für Cocktails selber herstellen</a>
