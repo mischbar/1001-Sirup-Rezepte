@@ -15,8 +15,8 @@
     background-color: $black;
 
     @include media($medium) {
-      width: auto;
-      @include rounded(0 0 10px 10px);
+  /*    width: auto;
+      @include rounded(0 0 10px 10px);*/
     }
 
     @include clearfix;
