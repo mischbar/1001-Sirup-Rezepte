@@ -1,16 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
 
-- title: Articles
-  url: /articles/
 
-- title: Blog
-  url: /blog/
+- title: Sirup Rezepte
+  url: /sirup-rezepte/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Artikel
+  url: /artikel/
 
-- title: Search
-  url: /search/
+- title: Suche
+  url: /suche/
+
+
+- title: Impressum
+  url: /impressum/
