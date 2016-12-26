@@ -3,7 +3,7 @@ layout: post
 title: Sirup selber machen und das Sirup Grundrezept
 excerpt: ""
 modified: 2016-12-26T14:17:25-04:00
-categories: artikel
+categories: rezepte
 tags: [Sirup, Rezept, Basics]
 image:
   feature: so-simple-sample-image-1.jpg
