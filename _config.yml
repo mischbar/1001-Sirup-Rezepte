@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: 1001 Sirup Rezepte
+locale: de_CH
+description: Die besten Sirup Rezepte zum Sirup selber machen.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: https://mischbar.github.io/1001-Sirup-Rezepte/
 
 # Jekyll configuration
 
