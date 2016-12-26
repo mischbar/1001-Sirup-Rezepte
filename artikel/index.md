@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artikel rund um das Thema Sirup herstellen, Sirup geniessen und kochen mit Sirup.
+title: Sirup herstellen, Sirup geniessen und mit Sirup kochen.
 excerpt: "An archive of articles sorted by date."
 search_omit: true
 ---
