@@ -4,7 +4,7 @@ title: Kandissirup/Kandiszuckersirup selber machen
 excerpt: ""
 modified: 2016-12-26T14:17:26-04:00
 categories: [rezepte]
-tags: [Sirup, Rezept, Basics]
+tags: [Sirup, Rezept, Kandis]
 image:
   feature: 1200px-Brauner_Kandiszucker.jpg
   credit: Alice Wiegand  
