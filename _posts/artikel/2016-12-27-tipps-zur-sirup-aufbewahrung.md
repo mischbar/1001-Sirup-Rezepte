@@ -6,10 +6,10 @@ modified: 2016-12-27T14:17:27-04:00
 categories: artikel
 tags: [Tipps, ]
 image:
-  feature: x.jpg
-  credit: XX
-  creditlink: #
-comments: true
+  feature: katalog_glas_flaschen1.jpg
+  credit: Georgina's Vintage Porzellan Verleih
+  creditlink: http://www.laura-georgina.de/glas
+comments: false
 share: true
 published: true
 ---
@@ -19,8 +19,8 @@ Nachfolgend 5 Tipps rund um die Aufbewahrung von selbstgemachtem Sirup.
 
 # Aufbewahrungstipps
 
-* Sirup in Eiswürfelformen abfüllt einfrieren. So kann jederzeit auch eine kleine Portion Sirup aufgetaut, frisch zubreitet und genossen werden. Ideal für Sirupe mit kurzer Haltbarkeit wie zum Beispiel der Gurkensirup.
-* Soll der Sirup zur Aufbewahrung in Flaschen gefüllt werden, müssen diese zuerst ausgekocht damit diese frei von vermehrungsfähigen Keimen sind. Kann man die Flaschen nicht auskochen sollten diese umindest heiss ausgespült werden.
-* Durchs Auskochen vorgewärmte Flaschen platzen nicht so leicht, wenn der Sirup eingefüllt wird.
+* Sirup in Eiswürfelformen abfüllen und einfrieren. So kann jederzeit auch eine kleine Portion Sirup aufgetaut, frisch zubreitet und genossen werden. Ideal für Sirupe mit kurzer Haltbarkeit wie zum Beispiel dem Gurkensirup.
+* Soll der Sirup zur Aufbewahrung in Flaschen gefüllt werden, müssen diese zuerst ausgekocht damit diese frei von vermehrungsfähigen Keimen sind. Kann man die Flaschen nicht auskochen sollten diese zumindest heiss ausgespült werden.
+* Durch die Sterilisation (Auskochen in Wasser) vorgewärmte Flaschen platzen nicht so leicht, wenn der kochende Sirup eingefüllt wird.
 * Sirupflaschen nach dem Gebrauch immer aussen reinigen, zum Beispiel mit einem feuchten Lappen.
-* Verklebte Sirupflaschendeckel und Flaschenverschlüsse lassen sich unter fliessenden, heissem Wasser schnell lösen und öffnen.
+* Verklebte Sirupflaschendeckel und Flaschenverschlüsse lassen sich unter fliessendem, heissem Wasser schnell lösen und wieder öffnen.
